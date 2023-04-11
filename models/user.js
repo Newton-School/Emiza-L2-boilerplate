@@ -29,13 +29,7 @@ var userSchema = mongoose.Schema({
   registrationdate: {
     type: Date,
     default : Date.now(),
-  },
-
-  //Add "tasks" which will be an array of task model. (will contain reference to task that belongs to this user)
-
-  //Write your code here.
-
-  //tasks : 
+  }
 
 });
 
