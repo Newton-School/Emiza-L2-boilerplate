@@ -12,8 +12,6 @@ request.body = {
 }
 
 1. Create new task from request body .
-2. Update the tasks array of creator who have created this task by inserting task _id to tasks of creator.
-
 
 Response :
 
